@@ -1,3 +1,22 @@
 .wrapper {
-    margin: 30px 0 10px 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper input {
+    padding: 10px;
+    margin-right: 10px;
+    letter-spacing: 0.05em;
+    border-radius: 4px;
+}
+
+.btn {
+    padding: 0 20px;
+    margin-right: 5px;
+    border-radius: 4px;
+}
+
+.btn:hover {
+    background-color: #6f9ac6;
+    color: #fff;
 }

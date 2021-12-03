@@ -1,4 +1,12 @@
+.App {
+    text-align: center;
+    background-color: orange;
+}
+
+h1 {
+    text-shadow: 4px 2px 4px grey;
+}
+
 .text {
-    margin-left: 80px;
     color: red;
 }
